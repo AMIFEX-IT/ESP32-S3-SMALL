@@ -6,7 +6,8 @@ A custom ESP32-S3 development board designed in **KiCad**, based on the **ESP32-
 The project includes the complete hardware design workflow, from schematic capture and component selection to PCB layout and fabrication-ready files.
 
 ---
-<img width="800" height="450" alt="Recording2026-09-10203114-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/13b1307d-c949-4e46-a7c1-441bd1ac3894" />
+<img width="800" height="450" alt="Recording2026-09-10203114-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/af8ed39f-ef9e-4425-ba1d-9bd66c59c273" />
+
 
 ## Overview
 
