@@ -1,3 +1,4 @@
+
 # ESP32-S3-N8R8 Development Board
 
 A custom ESP32-S3 development board designed in **KiCad**, based on the **ESP32-S3-WROOM-1-N8R8** module.
@@ -5,7 +6,7 @@ A custom ESP32-S3 development board designed in **KiCad**, based on the **ESP32-
 The project includes the complete hardware design workflow, from schematic capture and component selection to PCB layout and fabrication-ready files.
 
 ---
-
+<img width="800" height="450" alt="Recording2026-09-10203114-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/13b1307d-c949-4e46-a7c1-441bd1ac3894" />
 
 ## Overview
 
@@ -151,7 +152,7 @@ Manufacturing outputs such as Gerber files, drill files, and BOM data can be fou
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ESP32-S3-N8R8-Development-Board.git
+git clone https://github.com/AMIFEX-IT/ESP32-S3-SMALL.git
 ```
 
 ### 2. Open the Project
@@ -220,7 +221,7 @@ See the `LICENSE` file for the specific licensing terms.
 
 ## Author
 
-**Damilare Ipinnimo**
+**ICON**
 
 Custom ESP32-S3 hardware development project designed using KiCad.
 
