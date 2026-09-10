@@ -4,9 +4,12 @@
 A custom ESP32-S3 development board designed in **KiCad**, based on the **ESP32-S3-WROOM-1-N8R8** module.
 
 The project includes the complete hardware design workflow, from schematic capture and component selection to PCB layout and fabrication-ready files.
-<img width="800" height="450" alt="Recording2026-09-10203114-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/835f4397-d13a-4f49-af82-954e61249573" />
 
 ---
+<img width="800" height="450" alt="Recording2026-09-10203114-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7a0ec88b-fe09-47fc-b1f5-a97cf82f46cf" />
+
+
+
 
 ## Overview
 
